@@ -1,4 +1,4 @@
-# 2048Game - Part II
+# 2048Game
 This is the 2048 Game and programmed by Java.
 
 ## Video Walkthrough
