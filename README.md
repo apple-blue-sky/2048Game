@@ -1,8 +1,5 @@
-Name: Chiao J Wang
-ETS: cs8bwadg
-Student ID:A14206057
-CSE8B Winter 2018
-PSA3
+# 2048Game - Part II
+This is the 2048 Game and programmed by Java.
 
 ## Video Walkthrough
 
@@ -10,7 +7,7 @@ Here's a walkthrough of implemented 2048 Game:
 http://g.recordit.co/GzJQMWAW9k.gif
 <img src="http://g.recordit.co/GzJQMWAW9k.gif" title='Video Walkthrough 2048 Game' width='' alt='Video Walkthrough' />
 
-#2048Game Summary
+### 2048 Game summary
    In,Board.java, i work on to set up the board and grid size, and part of them
    check if the tile can move four directions(up, down,right,left)when it move
    each direction, the tile will combine and shift to get a new number.and also
@@ -22,4 +19,3 @@ http://g.recordit.co/GzJQMWAW9k.gif
    play processing, it will read user's input to move direction and to make the
    game keeping going.
    
-#2048GameJava
